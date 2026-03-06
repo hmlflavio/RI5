@@ -1,2 +1,13 @@
-# RI5
-Atividade RI5 da disciplina de Programação Orientada a Objetos
+# Atividade Prática - Programação Orientada a Objetos (Diagrama UML)
+
+**Aluno:** Flávio Lins
+**Turma:** Análise e Desenvolvimento de Sistemas (3ADS)
+
+## Como executar este projeto
+
+Este projeto foi desenvolvido utilizando JavaScript com Módulos ES6, seguindo a estrutura do diagrama UML da disciplina. Para testar o código:
+
+1. Abre o terminal na pasta do projeto.
+2. Certifica-te de que o ficheiro `package.json` possui a propriedade `"type": "module"`.
+3. Executa o ficheiro principal com o comando:
+   `node index.js`
